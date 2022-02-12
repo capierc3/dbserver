@@ -1,0 +1,32 @@
+{
+  "favs" : [
+    {
+      "title" : "The Battle of Asimov Station",
+      "text" : "This is where the randomly created adventure text will be displayed",
+      "pic" : "pictures/station01.jpg",
+      "votes" : 2
+    },
+    {
+      "title" : "The Rescue of Mr. Anderson",
+      "text" : "This would be the next randomly created adventure",
+      "pic" : "pictures/station01.jpg",
+      "votes" : 1
+    }
+  ],
+  "names" : ["Asimov", "Clarke", "Einstein", "Galileo", "Darwin", "Hawking", "Shatner"],
+  "locs" : ["Station", "Colony", "City", "Planet"],
+  "desc" : {
+    "battle" : [
+      "The local population is fighting off a invading alien species that has them out gunned but not out numbered."
+    ],
+    "search" : [
+      "a group of explorers have come across a clue pin pointing what happened and where they might be."
+    ],
+    "discovery" : [
+      "over 100 thousand years old. Filled with technology and history of an unknown species"
+    ]
+  },
+  "users" : {
+    "capierc3@asu.edu" : "password"
+  }
+}
