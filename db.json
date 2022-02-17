@@ -1,32 +1,57 @@
 {
-  "favs" : [
+  "favs": [
     {
-      "title" : "The Battle of Asimov Station",
-      "text" : "This is where the randomly created adventure text will be displayed",
-      "pic" : "pictures/station01.jpg",
-      "votes" : 2
+      "title": "The Battle of Asimov Station",
+      "text": "This is where the randomly created adventure text will be displayed",
+      "pic": "pictures/station01.jpg",
+      "votes": 2
     },
     {
-      "title" : "The Rescue of Mr. Anderson",
-      "text" : "This would be the next randomly created adventure",
-      "pic" : "pictures/station01.jpg",
-      "votes" : 1
+      "title": "The Rescue of Mr. Anderson",
+      "text": "This would be the next randomly created adventure",
+      "pic": "pictures/station01.jpg",
+      "votes": 1
+    },
+    {
+      "title": "The Search for Detroit Planet",
+      "text": "Detroit Planet has been disconnected from the rest of humanity for 8 year(s) and it hides the key to fixing the peace of the nation.",
+      "pic": "",
+      "votes": 1
     }
   ],
-  "names" : ["Asimov", "Clarke", "Einstein", "Galileo", "Darwin", "Hawking", "Shatner"],
-  "locs" : ["Station", "Colony", "City", "Planet"],
-  "desc" : {
-    "battle" : [
-      "The local population is fighting off a invading alien species that has them out gunned but not out numbered."
+  "names": [
+    "Asimov",
+    "Clarke",
+    "Einstein",
+    "Galileo",
+    "Darwin",
+    "Hawking",
+    "Shatner"
+  ],
+  "locs": [
+    "Station",
+    "Colony",
+    "City",
+    "Planet"
+  ],
+  "desc": {
+    "battle": [
+      "The local population is fighting off a invading alien species that has them out gunned but not out numbered.",
+      "but who is the enemy? There is no one to trust when the enemy could be anyone."
     ],
-    "search" : [
-      "a group of explorers have come across a clue pin pointing what happened and where they might be."
+    "search": [
+      "a group of explorers have come across a clue pin pointing what happened and where they might be.",
+      "and it hides the key to fixing the peace of the nation."
     ],
-    "discovery" : [
-      "over 100 thousand years old. Filled with technology and history of an unknown species"
+    "discovery": [
+      "over 100 thousand years old. Filled with technology and history of an unknown species",
+      "full of humans who have no knowledge of Earth. Where did they come from, and how?"
     ]
   },
-  "users" : {
-    "capierc3@asu.edu" : "password"
-  }
+  "users": [
+    {
+      "username": "capierc3@asu.edu",
+      "password": "password"
+    }
+  ]
 }
