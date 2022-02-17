@@ -1,20 +1,14 @@
 {
   "favs": [
     {
-      "title": "The Battle of Asimov Station",
-      "text": "This is where the randomly created adventure text will be displayed",
-      "pic": "pictures/station01.jpg",
-      "votes": 2
-    },
-    {
-      "title": "The Rescue of Mr. Anderson",
-      "text": "This would be the next randomly created adventure",
-      "pic": "pictures/station01.jpg",
+      "title": "The Discovery of Clarke Station",
+      "text": "An unknown Station was recently found, now called Clarke Station. A Station found to be full of humans who have no knowledge of Earth. Where did they come from, and how?",
+      "pic": "",
       "votes": 1
     },
     {
-      "title": "The Search for Detroit Planet",
-      "text": "Detroit Planet has been disconnected from the rest of humanity for 8 year(s) and it hides the key to fixing the peace of the nation.",
+      "title": "The Battle of Galileo Planet",
+      "text": "A battle broke out on Galileo Planet, but who is the enemy? There is no one to trust when the enemy could be anyone.",
       "pic": "",
       "votes": 1
     }
